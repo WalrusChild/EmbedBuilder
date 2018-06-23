@@ -1,6 +1,6 @@
 # Disclaimer:
 
-This is technically against Discord TOS, so be careful. I created this projects to become more familiar with the Discord API.
+This is technically against Discord TOS (self botting), so be careful. I created this projects to become more familiar with the Discord API.
 
 # What does it do?
 
